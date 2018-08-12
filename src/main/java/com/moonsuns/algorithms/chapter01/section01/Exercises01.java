@@ -1,6 +1,6 @@
-package com.moonsuns.algorithms.chapter1.section1;
+package com.moonsuns.algorithms.chapter01.section01;
 
-public class Exercises1
+public class Exercises01
 {
     public static void main(String[] args)
     {
