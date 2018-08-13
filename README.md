@@ -5,3 +5,7 @@
 ```
 mvn archetype:generate -DgroupId=com.ms -DartifactId=algorithms -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
+
+```
+rpl -Rx'.md' -e "\n" "  \n" ./*
+```
